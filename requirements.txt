@@ -1,0 +1,10 @@
+pyrebase4
+python_dotenv
+disnake
+simple_chalk
+psutil
+Pillow
+praw
+pip install imgur-python
+pip install giphy_client
+pip install urbandict
